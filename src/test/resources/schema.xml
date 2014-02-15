@@ -1,0 +1,3 @@
+ <field name="id" type="string" indexed="true" stored="true" required="true" multiValued="false" />         
+ <field name="name" type="text_general" indexed="true" stored="true" omitNorms="true"/>
+ <field name="price" type="double" indexed="true" stored="true" omitNorms="true"/>
